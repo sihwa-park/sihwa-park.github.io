@@ -1,84 +1,31 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{park2023nebla,
+  abbr={AAAI 2024},
+  title={NeBLa: Neural Beer-Lambert for 3D Reconstruction of Oral Structures from Panoramic Radiographs {<br />} (To Appear)},
+  author={Park, Sihwa and Kim, Seongjun and Kwon, Doeyoung and Jang, Yohan and Baek, Seungjun},
+  abstract={
+  Panoramic radiography (Panoramic X-ray, PX) is a widely used imaging modality for dental examination. However, PX only provides a flattened 2D image, lacking in a 3D view of the oral structure. In this paper, we propose NeBLa (Neural Beer-Lambert) to estimate 3D oral structures from real-world PX. NeBLa tackles full 3D reconstruction for varying subjects (patients) where each reconstruction is based only on a single panoramic image. We create an intermediate representation called simulated PX (SimPX) from 3D Cone-beam computed tomography (CBCT) data based on the Beer-Lambert law of X-ray rendering and rotational principles of PX imaging. SimPX aims at not only truthfully simulating PX, but also facilitates the reverting process back to 3D data. We propose a novel neural model based on ray tracing which exploits both global and local input features to convert SimPX to 3D output. At inference, a real PX image is translated to a SimPX-style image with semantic regularization, and the translated image is processed by generation module to produce high-quality outputs. Experiments show that NeBLa outperforms prior state-of-the-art in reconstruction tasks both quantitatively and qualitatively. Unlike prior methods, NeBLa does not require any prior information such as the shape of dental arches, nor the matched PX-CBCT dataset for training, which is difficult to obtain in clinical practice.
+  },
+  journal={Accepted in the 38th AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2024},
+  selected={true},
+  arxiv={2304.04027}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{park20233d,
+  abbr={MICCAI 2023},
+  title={3D Teeth Reconstruction from Panoramic Radiographs Using Neural Implicit Functions},
+  author={Park, Sihwa and Kim, Seongjun and Song, In-Seok and Baek, Seung Jun},
+  abstract={
+  Panoramic radiography is a widely used imaging modality in dental practice and research. However, it only provides flattened 2D images, which limits the detailed assessment of dental structures. In this paper, we propose Occudent, a framework for 3D teeth reconstruction from panoramic radiographs using neural implicit functions, which, to the best of our knowledge, is the first work to do so. For a given point in 3D space, the implicit function estimates whether the point is occupied by a tooth, and thus implicitly determines the boundaries of 3D tooth shapes. Firstly, Occudent applies multi-label segmentation to the input panoramic radiograph. Next, tooth shape embeddings as well as tooth class embeddings are generated from the segmentation outputs, which are fed to the reconstruction network. A novel module called Conditional eXcitation (CX) is proposed in order to effectively incorporate the combined shape and class embeddings into the implicit function. The performance of Occudent is evaluated using both quantitative and qualitative measures. Importantly, Occudent is trained and validated with actual panoramic radiographs as input, distinct from recent works which used synthesized images. Experiments demonstrate the superiority of Occudent over state-of-the-art methods.},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) {<br /><b>}Top 14% paper{</b>}},
+  pages={376--386},
+  year={2023},
+  organization={Springer},
+  selected={true},
+  arxiv={2311.16524},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
