@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a recent MS graduate from [System INtelligence Group](https://singkru.github.io/) at Korea University, supervised by Prof. [Seungjun Baek](https://singkru.github.io/). I completed my Bachelor of Engineering in Computer Science & Engineering and Mathematics and my Master of Science in Computer Science at Korea University. More details in my CV [here.](/cv) 
+I am an incoming PhD student in Computer Scicence at Cornell University starting from Fall 2024. I completed my Bachelor of Engineering in Computer Science & Engineering and Mathematics and my Master of Science in Computer Science at Korea University, supervised by Prof. [Seungjun Baek](https://singkru.github.io/). More details in my CV [here.](/cv) 
+
+My research focuses on building more robust and interpretable deep learning models. I'm particularly interested in various machine learning theories, especially those related to optimization problems. Recently, my attention has shifted towards the learning rate's impact on the optimization process within the learning space. This includes exploring methods to select task-specific learning rates, particularly for large models.
 
 Preferred way of being contacted: __sihwapark@korea.ac.kr__
