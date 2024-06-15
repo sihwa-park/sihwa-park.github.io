@@ -6,7 +6,7 @@ subtitle: <a href='https://www.korea.edu'>Korea University</a>. Seoul, South Kor
 
 profile:
   align: right
-  image: profile.jpg
+  image: IMG_8043.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
