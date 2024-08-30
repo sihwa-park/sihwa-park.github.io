@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Cornell University, Ithaca, NY
+subtitle: [Cornell University](https://www.cs.cornell.edu), Ithaca, NY
 
 profile:
   align: right
