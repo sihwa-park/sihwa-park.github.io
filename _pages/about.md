@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: [Cornell University](https://www.cs.cornell.edu), Ithaca, NY
+subtitle: <a href='https://www.cs.cornell.edu'>Cornell University</a>, Ithaca, NY
 
 profile:
   align: right
