@@ -20,4 +20,4 @@ I am a first year PhD student in Computer Scicence at Cornell University. I comp
 
 My research focuses on building more robust and interpretable deep learning models. I'm interested in various machine learning theories, especially those related to optimization problems.
 
-Preferred way of being contacted: __sp2582[at]cornell[dot]edu__
+Preferred way of being contacted: __sihwapark[at]cs[dot]cornell[dot]edu__
