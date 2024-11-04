@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in Computer Scicence at Cornell University. I completed my BS and MS in Computer Science at Korea University, supervised by Prof. [Seungjun Baek](https://singkru.github.io/). More details in my CV [here.](/cv) 
+I am a first-year PhD student in Computer Scicence at Cornell University. I completed my BS and MS in Computer Science at Korea University, supervised by Prof. [Seungjun Baek](https://singkru.github.io/). More details in my CV [here.](/cv) 
 
 My research focuses on building more robust and interpretable deep learning models. I'm interested in various machine learning theories, especially those related to optimization problems.
 
