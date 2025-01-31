@@ -18,6 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am a first-year PhD student in Computer Scicence at Cornell University. I completed my BS and MS in Computer Science at Korea University, supervised by Prof. [Seungjun Baek](https://singkru.github.io/). More details in my CV [here.](/cv) 
 
-My research focuses on building more robust and interpretable deep learning models. I'm interested in various machine learning theories, especially those related to optimization problems.
+My research interests lie in Bayesian Optimization and various theoretical approaches related to machine learning methods.
 
 Preferred way of being contacted: __sihwapark[at]cs[dot]cornell[dot]edu__
