@@ -20,4 +20,6 @@ I am a first-year PhD student in Computer Scicence at Cornell University. I comp
 
 I like the idea of building mathematical building blocks, especially from a machine learning, data perspective, or decision-making standpoint. Currently, my main research forcus is on Bayesian Optimization and I'm also into various theoretical approaches related to machine learning methods.
 
+Pronouns: __they/them__ (If you've never heard of they/them pronouns, refer [here](https://www.stonewall.org.uk/resources/workplace-trans-inclusion-hub/a-beginners-guide-to-pronouns-and-using-pronouns-in-the-workplace#:~:text=Some%20trans%20and%20gender%20non,generally%20perceived%20as%20gendered%20terms.).)
+
 Preferred way of being contacted: __sihwapark[at]cs[dot]cornell[dot]edu__
