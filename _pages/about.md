@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a first-year PhD student in Computer Scicence at Cornell University. I did my BS and MS in Computer Science at Korea University, where I was advised by Prof. [Seungjun Baek](https://singkru.github.io/). You can find more details in my CV [here.](/cv) 
 
-I'm interested in stacking mathematical building blocks, particularly within the field of machine learning. My current research focuses on Bayesian Optimization, and I'm also into various theoretical approaches related to machine learning.
+I'm interested in how we can stack different mathematical building blocks within the field of machine learning. My current research focuses on Bayesian Optimization, and I'm also into various theoretical approaches related to machine learning.
 
 Pronouns: __they/them__ (If you've never heard of they/them pronouns, refer [here](https://www.stonewall.org.uk/resources/workplace-trans-inclusion-hub/a-beginners-guide-to-pronouns-and-using-pronouns-in-the-workplace#:~:text=Some%20trans%20and%20gender%20non,generally%20perceived%20as%20gendered%20terms.).)
 
