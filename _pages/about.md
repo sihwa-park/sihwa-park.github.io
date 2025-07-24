@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Computer Scicence at Cornell University. I did my BS and MS in Computer Science at Korea University, where I was advised by Prof. [Seungjun Baek](https://singkru.github.io/). You can find more details in my CV [here.](/cv) 
+I am a second-year PhD student in Computer Scicence at Cornell University. I did my BS and MS in Computer Science at Korea University, where I was advised by Prof. [Seungjun Baek](https://singkru.github.io/). You can find more details in my CV [here.](/cv) 
 
 I'm interested in how we can stack different mathematical building blocks within the field of machine learning. My current research focuses on Bayesian Optimization, and I'm also into various theoretical approaches related to machine learning.
 
