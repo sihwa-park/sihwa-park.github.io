@@ -21,6 +21,6 @@ Research Interests: Theoretical machine learning, __Bayesian optimization__, dec
 
 Current research: __Multi-objective__ Bayesian optimization in __cost-aware__ settings.
 
-Pronouns: they/them (If you've never heard of they/them pronouns, refer [here](https://www.stonewall.org.uk/resources/workplace-trans-inclusion-hub/a-beginners-guide-to-pronouns-and-using-pronouns-in-the-workplace#:~:text=Some%20trans%20and%20gender%20non,generally%20perceived%20as%20gendered%20terms.).)
-
 Preferred way of being contacted: __sihwapark[at]cs[dot]cornell[dot]edu__
+
+Pronouns: they/them (If you've never heard of they/them pronouns, refer [here](https://www.stonewall.org.uk/resources/workplace-trans-inclusion-hub/a-beginners-guide-to-pronouns-and-using-pronouns-in-the-workplace#:~:text=Some%20trans%20and%20gender%20non,generally%20perceived%20as%20gendered%20terms.).)
