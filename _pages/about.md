@@ -17,10 +17,10 @@ social: false  # includes social icons at the bottom of the page
 
 I am a second-year PhD student in Computer Scicence at Cornell University, advised by Professors [Alexander Terenin](https://avt.im) and [David Bindel](https://www.cs.cornell.edu/~bindel/). I did my B.S. and M.S. in Computer Science at Korea University, where I was advised by Professor [Seungjun Baek](https://singkru.github.io/).
 
-Research Interests: Theoretical machine learning, __Bayesian optimization__, decision-making under uncertainty, bridging theory and practice in optimization and scientific computing
+Research Interests: Theoretical machine learning, Bayesian optimization, decision-making under uncertainty, bridging theory and practice in optimization and scientific computing
 
-Current research: __Multi-objective__ Bayesian optimization in __cost-aware__ settings.
+Current research: Multi-objective Bayesian optimization in cost-aware settings.
 
-Preferred way of being contacted: __sihwapark[at]cs[dot]cornell[dot]edu__
+Preferred way of being contacted: sihwapark[at]cs[dot]cornell[dot]edu
 
 Pronouns: they/them (If you've never heard of they/them pronouns, refer [here](https://www.stonewall.org.uk/resources/workplace-trans-inclusion-hub/a-beginners-guide-to-pronouns-and-using-pronouns-in-the-workplace#:~:text=Some%20trans%20and%20gender%20non,generally%20perceived%20as%20gendered%20terms.).)
