@@ -19,7 +19,7 @@ I am a second-year PhD student in Computer Scicence at Cornell University, advis
 
 Research Interests: Theoretical machine learning, Bayesian optimization, decision-making under uncertainty, bridging theory and practice in optimization and scientific computing
 
-Current research: Multi-objective Bayesian optimization in cost-aware settings.
+Current research: Multi-objective Bayesian optimization in cost-aware settings
 
 Preferred way of being contacted: sihwapark[at]cs[dot]cornell[dot]edu
 
