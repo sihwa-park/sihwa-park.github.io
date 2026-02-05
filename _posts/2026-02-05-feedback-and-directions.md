@@ -5,7 +5,7 @@ date: 2026-02-05 18:08:00-0500
 description: a short reflection about my first paper submission at Cornell and future research directions
 tags: formatting toc
 categories: sample-posts
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 toc:
   beginning: true
