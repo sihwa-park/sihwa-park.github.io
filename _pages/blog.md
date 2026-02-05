@@ -3,7 +3,7 @@ layout: page
 permalink: /blog/
 title: Blog
 description: Blog materials
-nav: true
+nav: false
 nav_order: 3
 ---
 
