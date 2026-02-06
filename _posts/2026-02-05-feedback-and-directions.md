@@ -36,6 +36,8 @@ Another reason was that I didn't think carefully enough about the whole structur
 ### How do I feel now after this paper deadline?
 Of course, there are some parts that could be done better. But overall, I feel like I’ve finished weaving this huge textile, named “Research in theoretical machine learning”, but still rough and loose in places. I’m happy that I went through the entire process—from theoretical discussions to paper writing—but I can still see so many holes in this textile. Now, I need to think about what I want to do with it.
 
+---
+
 ## My future goals for the remaining PhD
 ### Where am I
 So where am I right now? I want to answer this question to think more concretely about my future research directions. But before I do, I want to revisit the goals I had when I started.
